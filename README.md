@@ -17,11 +17,11 @@ You can do that here...  https://dev.twitter.com/
 You need to get the following... costumerKey, secret, accessToken, accessSecret.
 
 Once you have those paste them in the app/Helper/Session.php file...
-$array = array(			 
-	'costumerKey'  	=> "u***********************4",
-	'secret' 		=> "F**********************************************8",
-	'accessToken'   => "7**********************************************s",
-	'accessSecret'  => "Z*****************************************7"
+	$array = array(			 
+	'costumerKey'  	=> "",
+	'secret' 		=> "",
+	'accessToken'   => "",
+	'accessSecret'  => ""
 
 );
 
