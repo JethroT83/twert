@@ -1,5 +1,5 @@
 # twert
-Twitter Spammer App, which got banned 4 days after it was operational.  It's here for educational purposes.
+This app sends out tweets via API by responding to what is trending for a given query.
 
 
 # Composer.json
